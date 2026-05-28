@@ -27,4 +27,5 @@ All performance trajectories and comparative claims reported in the manuscript a
 ## 📖 Proposed Citation
 If you wish to track this project, please note that it is related to the following upcoming publication:
 
-> *Tabatabaei, A., et al. "TWIM: Temporal Influence Maximization in Social Networks with Grey Wolf Optimization", Computing (Springer Nature), 2026 (Under Revision).*
+> *Tabatabaei, A., et al. "TWIM: Temporal Influence Maximization in Social Networks with Grey Wolf Optimization",
+
